@@ -1,5 +1,8 @@
 # Assignment 2 
 
+My task was to write a repository and controllers for a PEST video service 
+with authentication and the ability to like videos by users.
+
 ## Overview
 
 This assignment will build on the ideas in the original video service to add OAuth 2.0
