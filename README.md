@@ -1,7 +1,7 @@
 # Assignment 2 
 
-My task was to write a repository and controllers for a PEST video service 
-with authentication and the ability to like videos by users.
+(My task was to write a repository and controllers for a PEST video service 
+with authentication and the ability to like videos by users.)
 
 ## Overview
 
